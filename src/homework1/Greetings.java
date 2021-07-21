@@ -15,6 +15,10 @@ public class Greetings {
 		System.out.println("Good Morning!");
 		System.out.println("Good Aftermoon");
 		System.out.println("Good Evening");
+		
+		System.out.println("Hello World!");
+		System.out.println("Hello Java");
+		System.out.println("Hello Programmer !");
 	}
 
 }

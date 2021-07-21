@@ -10,7 +10,11 @@ public class DisplayOfNema {
 		System.out.println("Roll  is " + Roll);
 		System.out.println("Namel  is " + Name);
 		System.out.println("Nationality  is " + Nationality);
-
+		
+		int age = 40;
+		String bob;
+		System.out.println(age);
+		System.out.println("bob");
 	}
 
 }
